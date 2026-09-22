@@ -1,8 +1,8 @@
-# NHM2026 Reproducibility Materials
+# SIMODS2026 Reproducibility Materials
 
 This repository accompanies the manuscript:
 
-**Coverage-Induced Agreement Inflation in Higher-Order Representations of Sparse Affiliation Networks**
+**Coverage-Induced Agreement Inflation in Sparse Network Representations**
 
 ## Contents
 
