@@ -2,10 +2,10 @@
 
 ## Associated manuscript
 
-**Title:** *Coverage-Induced Agreement Inflation in Higher-Order Representations of Sparse Affiliation Networks*
+**Title:** *Coverage-Induced Agreement Inflation in Sparse Network Representations*
 
 **Supplementary-data package version:** 1.1  
-**Package date:** 2 September 2026
+**Package date:** 22 September 2026
 
 ## Purpose and scope
 
