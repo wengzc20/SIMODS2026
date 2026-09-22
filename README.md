@@ -8,10 +8,10 @@ This repository accompanies the manuscript:
 
 | Directory | Description |
 |---|---|
-| `Supplementary_Data` | Non-confidential chain summaries, retained statistics, diagnostic records, and source data for Supplementary Figs. S1-S2. |
 | `DBLP` | Scripts reproducing the active-only DBLP analysis. |
 | `MovieLens` | Scripts reproducing the fixed-user-universe MovieLens analysis. |
-| `RepLab Development` | Experimental demonstration program for the diagnostic workflow. |
+| `Supplementary_Data` | Non-confidential chain summaries, retained statistics, diagnostic records, and source data for Supplementary Figs. S1-S2. |
+| `RepLab_Development_Kit_v2.2_academic` | Experimental demonstration program for the diagnostic workflow. |
 
 The public DBLP and MovieLens datasets are not redistributed and should be obtained from their original providers.
 
